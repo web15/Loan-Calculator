@@ -50,6 +50,7 @@ function calculateResults() {
 
 // Show Error 
 function showError(error) {
+  
   // Hide results
   document.getElementById('results').style.display = 'none';
 
